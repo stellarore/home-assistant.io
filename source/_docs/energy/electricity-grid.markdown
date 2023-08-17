@@ -67,7 +67,7 @@ _Attention! Installing CT clamp sensor devices requires opening your electrical 
 
 ### Data provided by your energy provider
 
-Some energy providers will provide you real-time information about your usage and have this data integrated into Home Assistant.
+Some energy providers will provide you real-time information about your usage and have this data integrated into Home Assistant. The Home Assistant integration [Opower](/integrations/opower) can retrieve usage from many utilities. 
 
 ### Manual Integration
 
